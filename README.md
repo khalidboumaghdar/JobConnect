@@ -49,7 +49,7 @@ JobConnect est une plateforme web conçue pour faciliter le processus de recrute
 
 1. Clonez ce repository :
     ```bash
-    git clone https://github.com/mohamed-iaazi/JobConnect.git
+    https://github.com/khalidboumaghdar/JobConnect.git
     ```
 
 2. Importez le projet dans votre IDE préféré (Eclipse, IntelliJ IDEA).
